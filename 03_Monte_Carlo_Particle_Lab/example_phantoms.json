@@ -1,0 +1,8 @@
+{
+  "phantoms": [
+    {"name":"water_block","shape":"box","size_mm":[200,200,200],"material":"water"},
+    {"name":"water_cylinder","shape":"cylinder","radius_mm":100,"height_mm":200,"material":"water"},
+    {"name":"water_sphere","shape":"sphere","radius_mm":100,"material":"water"}
+  ],
+  "example_beam": {"particle":"electron","energy_MeV":12,"field_mm":[50,50],"histories":50000}
+}

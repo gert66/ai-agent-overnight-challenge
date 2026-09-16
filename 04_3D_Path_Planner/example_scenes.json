@@ -1,0 +1,6 @@
+{
+  "scenes": [
+    {"name":"easy","start":[0,0,0],"goal":[10,8,6],"obstacles":[{"type":"box","center":[4,3,2],"size":[2,4,4]},{"type":"box","center":[7,6,4],"size":[2,2,5]}]},
+    {"name":"corridor","start":[0,0,0],"goal":[12,0,8],"obstacles":[{"type":"box","center":[4,1,4],"size":[2,8,6]},{"type":"box","center":[8,-1,4],"size":[2,8,6]}]}
+  ]
+}
